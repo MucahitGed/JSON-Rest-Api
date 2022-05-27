@@ -1,0 +1,14 @@
+{
+    "companies" : [
+        {"company_name":"Hp" , "tax_id" : 135246, "street" :"Centre", "zip_code" :"09-100" , "city" : "Warsaw"},
+        {"company_name":"Dell" , "tax_id" :123183,  "street" :"Sun_tzu", "zip_code" :"03-352" , "city" :"Korean" },
+        {"company_name":"Apple", "tax_id" :371921, "street" :"Silikon", "zip_code" :"04-232" , "city" :"LA" },
+        {"company_name":"Asus" , "tax_id" :567890, "street" :"Serwat", "zip_code" :"89-234" , "city" :"Zlatoust" },
+        {"company_name":"Casper" , "tax_id" :345543, "street" :"Aydın", "zip_code" :"09-200" , "city" :"Istanbul" },
+        {"company_name":"Samsung" , "tax_id" :365466, "street" :"Seul's", "zip_code" :"39-340" , "city" :"Seul" },
+        {"company_name":"Monster", "tax_id" :374563, "street" :"Greek", "zip_code" :"03-589" , "city" :"Athens" },
+        {"company_name":"Motorola" , "tax_id" :256733, "street" :"St.louis", "zip_code" :"03-578" , "city" : "Paris"},
+        {"company_name":"Lenovo" , "tax_id" :184475, "street" :"San_cao", "zip_code" :"03-578" , "city" :"Pekin" },
+        {"company_name":"Toshiba" , "tax_id" :245721, "street" :"Red", "zip_code" :"04-135" , "city" :"Moskow" }
+    ]
+}
